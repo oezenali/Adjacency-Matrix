@@ -1,7 +1,7 @@
 # Adjacency-Matrix
 City Coloring Problem Solution Using Adjacency Matrix
 
-#Algorithm
+Algorithm
 Given a matrix representing cities and their adjacency relationships, the following steps are taken:
 
 Data Preparation: Construct a matrix representing cities and their adjacency relationships.
